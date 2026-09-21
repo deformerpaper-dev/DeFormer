@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- DeFormer demo page ---
+# Internal provenance: cluster paths, unixname, experiment IDs. NOT for the public site.
+DemoPage/
+demo_page_new/
+hard_cases_examples/
+.DS_Store
+
+# Hard-cases tab removed for now; assets kept locally so it can be restored.
+hard/
+hard_cases.json
